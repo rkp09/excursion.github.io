@@ -1,0 +1,74 @@
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    header {
+        text-align: center;
+    }
+    
+    h1 {
+        font-size: 50px;
+        font-weight: normal;
+        text-align: center;
+        padding: 30px;
+    }
+    
+    video {
+        object-fit: contain;
+    }
+    
+    body {
+        background: black;
+        font-family: Verdana, sans-serif;
+        color: white;
+    }
+    
+    p {
+        width: 896px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #cell-img {
+        width: 64px;
+        background: black;
+    }
+    
+    a {
+        color: Aquamarine;
+        font-size: 16px;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    section {
+        text-align: center;
+    }
+    
+    h3 {
+        text-align: center;
+        font-weight: normal;
+        color: gray
+    }
+    
+    #lnk {
+        text-align: center !important;
+        width: 100%;
+        padding: 50px 0;
+        bottom: 20px;
+    }
+    
+    video {
+        padding: 20px;
+    }
+    
+    #guide,
+    #sub-title-guide {
+        padding: 20px;
+    }
+    
+    .sec-section {
+        padding: 20px;
+    }
